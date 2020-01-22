@@ -1,2 +1,2 @@
-# SpringBoard-Projects
+# project showcase
 Store project files here
