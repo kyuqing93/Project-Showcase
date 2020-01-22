@@ -1,2 +1,2 @@
-# project showcase
+# Project Showcase
 Store project files here
